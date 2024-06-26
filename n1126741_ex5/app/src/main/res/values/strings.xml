@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">n1126741_ex5</string>
+    <string name="buttonSimulate">模擬</string>
+    <string name="tvSimulationNumber">次數</string>
+    <string name="tvRentalPrice">租金</string>
+    <string name="tvVehicleType">交通工具</string>
+    <string name="tvAttendanceRate">出席率</string>
+    <string name="tvTotalRentAmount">累積金額</string>
+</resources>
